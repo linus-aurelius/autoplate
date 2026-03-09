@@ -1,0 +1,9 @@
+temp/
+.DS_Store
+.serena/
+.1code/
+--path
+--url
+STATUS.md
+scripts/
+*.log
